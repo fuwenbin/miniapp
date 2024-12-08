@@ -203,3 +203,4 @@ file according to your project's information.
 - [Platform documentation](https://docs.telegram-mini-apps.com/)
 - [@telegram-apps/sdk-vue documentation](https://docs.telegram-mini-apps.com/packages/telegram-apps-sdk-vue)
 - [Telegram developers community chat](https://t.me/devs)
+# mini app
