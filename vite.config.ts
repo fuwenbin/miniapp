@@ -8,7 +8,7 @@ import viteBasicSslPlugin from '@vitejs/plugin-basic-ssl'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/vuejs-template',
+  base: '/miniapp',
   plugins: [
     vue(),
     vueDevTools(),

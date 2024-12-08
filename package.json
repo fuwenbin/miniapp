@@ -5,7 +5,7 @@
   "type": "module",
   "homepage": "https://telegram-mini-apps.github.io/vuejs-template",
   "scripts": {
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist -r https://github.com/fuwenbin/miniapp.git -b gh-pages",
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
     "preview": "vite preview",
