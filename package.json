@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "private": true,
   "type": "module",
-  "homepage": "https://telegram-mini-apps.github.io/vuejs-template",
+  "homepage": "https://github.com/fuwenbin/miniapp",
   "scripts": {
-    "deploy": "gh-pages -d dist -r https://github.com/fuwenbin/miniapp.git -b gh-pages",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
     "preview": "vite preview",
